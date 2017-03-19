@@ -1,0 +1,88 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Wave: /Wave
+  About: /about
+rss: /atom.xml
+#github: https://github.com/canonxu
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+#- tag
+- tagcloud
+- archive
+#- calendar
+#- recent_posts
+#- duoshuo_recent_comments
+- links
+- about_me
+
+# display widgets at the bottom of index pages (pagination == 2)
+index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+archive_type: 'monthly'
+show_count: true
+
+# Miscellaneous
+google_analytics: 
+baidu_tongji: d0ce02ada4a5c84ccd8d21a482028a07
+favicon: /css/images/favicon.ico
+
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+# Toc
+toc:
+  article: true   ## show contents in article.
+  aside: true     ## show contents in aside.
+# Scroll to top
+go_top: true
+
+# duoshuo
+duoshuo_shortname: canonxu
+
+# baidu share
+baidushare: true
+
+# blogroll
+links:
+- name: 404 page
+  link: http://yibo.iyiyun.com/js/yibo404/key/1
+
+# about me
+about_me:
+  title: 广告 
+  ads: 
+  - http://canonxu-com.qiniudn.com/cainiao.png, https://www.cainiao.com/markets/cnwww/transboundary-landing
+  texts:
+  - 广告位招租 
+
+# display updated
+display_updated: true
+
+# 不蒜子
+busuanzi: true
+
+# calendar
+calendar:
+  language: zh-CN
+
+# donate
+donate:
+  enable: 
+  text: 感谢您的鼓励，我会继续努力的 :） 
+  wechat: http://canonxu-com.qiniudn.com/wechat-0.99RMB.png
+  alipay: http://canonxu-com.qiniudn.com/alipay-0.99RMB.png 
