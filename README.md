@@ -1,8 +1,7 @@
-# Landscape-F
+# landscape-alpha
 
-A theme based on [Hexo]'s default theme [Landscape].
+A theme based on [Hexo]'s default theme [Landscape] and [Landscape-f].
 
-- [Preview](http://howiefh.github.io/hexo-theme-landscape-f/)
 - [My Blog](http://howiefh.github.io/2014/04/20/hexo-optimize-and-my-theme-landscape-f/)
 
 ## Installation
@@ -11,23 +10,23 @@ A theme based on [Hexo]'s default theme [Landscape].
 
 ``` bash
 $ cd <your blog path>
-$ git clone https://github.com/howiefh/hexo-theme-landscape-f.git themes/landscape-f
+$ git clone https://github.com/howiefh/hexo-theme-landscape-alpha.git themes/landscape-alpha
 ```
 
 **Landscape-F requires Hexo 2.4 and above.**
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `landscape-f`.
+Modify `theme` setting in `_config.yml` to `landscape-alpha`.
 
 ```
-theme: landscape-f
+theme: landscape-alpha
 ```
 
 ### Update
 
 ``` bash
-cd themes/landscape-f
+cd themes/landscape-alpha
 git pull
 ```
 
