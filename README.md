@@ -21,7 +21,7 @@ theme: landscape-alpha
 
 ### Requirements
 
-- [Grunt] 0.4+
 - Hexo 2.4+
+- Grunt 0.4+
 
 
