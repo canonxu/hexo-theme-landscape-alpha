@@ -51,8 +51,8 @@ toc:
 # Scroll to top
 go_top: true
 
-# duoshuo
-duoshuo_shortname: canonxu
+# comment
+disqus_shortname: canonxu
 
 # baidu share
 baidushare: true
